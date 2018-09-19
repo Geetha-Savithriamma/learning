@@ -26,3 +26,4 @@ readfile2:
     - script:
         name: read forward.txt
         code: cat echob/forward.txt
+echo "Helo World"
